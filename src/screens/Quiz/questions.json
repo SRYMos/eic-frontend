@@ -1,0 +1,204 @@
+{
+  "questions": [
+    {
+      "question": "What country has the highest life expectancy",
+      "choice": [
+        "Hong Kong",
+        "New York",
+        "London",
+        "Paris"
+      ],
+      "answer": "Hong Kong"
+    },
+    {
+      "question": "How many minutes are in a full week",
+      "choice": [
+        "10,070",
+        "10,080",
+        "10,090",
+        "10,100"
+      ],
+      "answer": "10,080"
+    },
+    {
+      "question": "Aureolin is a shade of what color",
+      "choice": [
+        "Yellow",
+        "Red",
+        "Green",
+        "Pink"
+      ],
+      "answer": "Yellow"
+    },
+    {
+      "question": "What game studio makes the Red Dead Redemption series",
+      "choice": [
+        "Rockstar Games",
+        "Insomniac",
+        "Capcom",
+        "EA"
+      ],
+      "answer": "Rockstar Games"
+    },
+    {
+      "question": "What sports car company manufactures the 911",
+      "choice": [
+        "Porsche",
+        "BMW",
+        "Audi",
+        "Mercedes Benz"
+      ],
+      "answer": "Porsche"
+    },
+    {
+      "question": "What company was initially known as \"Blue Ribbon Sports\"",
+      "choice": [
+        "Nike",
+        "Adidas",
+        "Puma",
+        "New Balance"
+      ],
+      "answer": "Nike"
+    },
+    {
+      "question": "What country has won the most World Cups",
+      "choice": [
+        "Brazil",
+        "Spain",
+        "Argentina",
+        "France"
+      ],
+      "answer": "Brazil"
+    },
+    {
+      "question": "Kratos is the main character of what video game series",
+      "choice": [
+        "God of War",
+        "Control",
+        "Ghost Of Tsushima",
+        "Stellar Blade"
+      ],
+      "answer": "God of War"
+    },
+    {
+      "question": "How many bones do we have in an ear",
+      "choice": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "3"
+    },
+    {
+      "question": "What phone company produced the 3310",
+      "choice": [
+        "Nokia",
+        "Samsung",
+        "Sony",
+        "Motorola"
+      ],
+      "answer": "Nokia"
+    },
+    {
+      "question": "What year was the United Nations established",
+      "choice": [
+        "1945",
+        "1946",
+        "1947",
+        "1948"
+      ],
+      "answer": "1945"
+    },
+    {
+      "question": "What car manufacturer had the highest revenue in 2020",
+      "choice": [
+        "Volkswagen",
+        "Tesla",
+        "BMW",
+        "Kia"
+      ],
+      "answer": "Volkswagen"
+    },
+    {
+      "question": "How many faces does a Dodecahedron have",
+      "choice": [
+        "12",
+        "11",
+        "10",
+        "9"
+      ],
+      "answer": "12"
+    },
+    {
+      "question": "How many ghosts chase Pac-Man at the start of each game",
+      "choice": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "How many hearts does an octopus have",
+      "choice": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "3"
+    },
+    {
+      "question": "How many stars are on the Chinese flag",
+      "choice": [
+        "5",
+        "4",
+        "3",
+        "6"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "How many colors are used in the South African flag",
+      "choice": [
+        "6",
+        "5",
+        "4",
+        "3"
+      ],
+      "answer": "6"
+    },
+    {
+      "question": "What colors is the flag of the United Nations",
+      "choice": [
+        "Blue and White",
+        "Black and White",
+        "Blue and Black",
+        "Red and White"
+      ],
+      "answer": "Blue and White"
+    },
+    {
+      "question": "What color are Mickey Mouse's shoes",
+      "choice": [
+        "Yellow",
+        "Red",
+        "Black",
+        "White"
+      ],
+      "answer": "Yellow"
+    },
+    {
+      "question": "What Netflix show had the most streaming views in 2021",
+      "choice": [
+        "Squid Game",
+        "Stranger Things",
+        "Kingdom",
+        "Loki"
+      ],
+      "answer": "Squid Game"
+    }
+  ]
+}
